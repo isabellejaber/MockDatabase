@@ -1,0 +1,1 @@
+INSERT INTO department VALUES ('African Art'), ('American Art'), ('Ancient Near Eastern Art'), ('Arms and Armor'), ('Ancient American Art'), ('Asian Art'), ('Costume Institute'), ('Drawings and Paintings'), ('Egyptian Art'), ('European Paintings'), ('European Sculpture and Decorative Arts'), ('Greek and Roman Art');
